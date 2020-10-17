@@ -26,7 +26,7 @@ public class RandomWeatherForecastGetter {
                     context.getString(R.string.weather_sun),
                     context.getString(R.string.weather_rain),
                     context.getString(R.string.weather_snow),
-                    context.getString(R.string.weather_sun),
+                    context.getString(R.string.weather_windy),
             };
         }
 

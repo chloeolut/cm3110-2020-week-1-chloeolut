@@ -3,6 +3,10 @@
     <string name="tvTitle">Home</string>
 
 
+    <string name="tvLocationDisplay">The weather in %1$s is </string>
+    <string name="tvLocationDisplayError">Please enter a location</string>
+    <string name="tvInstructions">Enter the location to get the forecast</string>
+    <string name="btnGetForecast">Get forecast</string>
 
     <!-- for the RandomWeatherForecastGetter -->
     <string name="weather_sun">sunny</string>
